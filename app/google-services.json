@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206120702755",
+    "firebase_url": "https://mlmarksman-stockprediction.firebaseio.com",
+    "project_id": "mlmarksman-stockprediction",
+    "storage_bucket": "mlmarksman-stockprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206120702755:android:259d15e8a1cbcce6",
+        "android_client_info": {
+          "package_name": "com.example.niveth_saran.stockpredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206120702755-hvt6t0dv1uub0ahdl2el5eqb7qm3p90p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9lHgaiwEPO8S1CjQdrjeQDqT1UmRiT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
